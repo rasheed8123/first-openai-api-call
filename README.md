@@ -13,8 +13,9 @@ This script demonstrates how to make a successful call to the OpenAI API using t
 
 ### 1. Clone the repository
 
-git clone https://github.com/rasheed8123/first-openai-api-call.git
-cd first-openai-api-call
+-git clone https://github.com/rasheed8123/first-openai-api-call.git
+
+-cd first-openai-api-call
 
 ---
 
